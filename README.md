@@ -1,4 +1,4 @@
-[![MasterHead]([[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUMO1oL5pB1elCrIVxbrUDoAfMM96KmS5sDw&usqp=CAU](https://www.scmgalaxy.com/tutorials/wp-content/uploads/2021/09/Full-stack-developer-1.png](https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg)))](https://seeya-rani.io)
+[![MasterHead](https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg)](https://seeya-rani.io)
 <h1 align="center">Hi 👋, I'm Seeya Rani</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"width="400"align="right"alt="coding">
