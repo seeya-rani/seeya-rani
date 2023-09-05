@@ -1,7 +1,7 @@
 [![MasterHead](https://cutshort.io/blog/wp-content/uploads/2018/04/bd1e5c2457278a37313c55ce8c887aa3.jpg)](https://seeya-rani.io)
 <h1 align="center">Hi 👋, I'm Seeya Rani</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"width="400"align="right"alt="coding">
+<!-- <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"width="400"align="right"alt="coding"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seeya-rani&label=Profile%20views&color=0e75b6&style=flat" alt="seeya-rani" /> </p>
 
