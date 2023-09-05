@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Salon Management System**
-
-- 🌱 I’m currently learning **Angular Js**
-
 - 💬 Ask me about **Html,css,js,php,bootstrap**
 
 - 📫 How to reach me **j900995@gmail.com**
